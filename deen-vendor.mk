@@ -998,6 +998,4 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     datastatusnotification \
     ims \
-    qcrilmsgtunnel \
-    MotoDolbyV3 \
-    daxService
+    qcrilmsgtunnel
